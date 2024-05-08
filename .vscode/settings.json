@@ -5,6 +5,8 @@
         "TDImportCache/Lib",
         "C:/Program Files/Derivative/TouchDesigner.2022.32660/bin/Lib",
         "C:/Program Files/Derivative/TouchDesigner/bin/Lib",
-        "C:/Program Files/Derivative/TouchDesigner.2022.35320/bin/Lib"
+        "C:/Program Files/Derivative/TouchDesigner.2022.35320/bin/Lib",
+        "C:/Program Files/Derivative/TouchDesigner.2023.11510/bin/Lib",
+        "C:/Program Files/Derivative/TouchDesigner.2023.11280/bin/Lib"
     ]
 }
